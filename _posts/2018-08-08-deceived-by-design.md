@@ -2,7 +2,7 @@
 layout: post
 title: "Deceived by Design"
 tagline: "How tech companies use dark patterns to discourage us from exercising our rights to privacy"
-categories: junk
+categories: security
 author: "Nalaka Wimalarathna"
 ---
 
