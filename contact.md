@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact Us
 tagline: Create a contact form and you are good to go
 ---
 
