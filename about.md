@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+permalink: /about.html
+---
 
 
 **_Antler IT Solutions Private Limited (AITS)_** is a recognized Software company developing and delivering software solutions for a diverse set of business entities.
