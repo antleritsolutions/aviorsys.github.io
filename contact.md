@@ -4,7 +4,7 @@ title: Contact Us
 tagline: Create a contact form and you are good to go
 ---
 
-Antler IT Solutions (PVT) ltd|
+Antler IT Solutions (PVT) ltd
 
 Address : NO.170,
 
