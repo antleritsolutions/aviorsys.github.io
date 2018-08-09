@@ -14,14 +14,11 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "Lore Pirri"
+author: "Randev Thaluksha"
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: #twitter username
 #  site:
 facebook:
-  #publisher: 1592372034171500
-  #profile_id: 1809805629
-  app_id: 1798910940422432 # cayman-blog
-  #authors: lorepirri
+  username: aviorsys
 #  admins:
