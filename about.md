@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About
+title: "Antler IT Solutions"
+tagline: "Awesomeness happens here"
 permalink: /about.html
 ---
 
+### About Us
 
-**_Antler IT Solutions Private Limited (AITS)_** is a recognized Software company developing and delivering software solutions for a diverse set of business entities.
+**Antler IT Solutions Private Limited (AITS)** is a recognized Software company developing and delivering software solutions for a diverse set of business entities.
 
-AITS brings innovations and excellence to businesses by offering a comprehensive suite of solutions for diverse business needs. AviorSys is a core platform made by Antler IT Solutions Private Limited (AITS)
+AITS brings innovations and excellence to businesses by offering a comprehensive suite of solutions for diverse business needs. Aviorsys is a core platform made by Antler IT Solutions Private Limited (AITS)
 
 ### Resources and strengths
 

@@ -16,9 +16,14 @@ theme: # leave it empty
 # social
 author: "Randev Thaluksha"
 image: /thumbnail-jumbo.png
+owner: Aviorsys
 twitter:
   username: #twitter username
-#  site:
 facebook:
-  username: aviorsys
-#  admins:
+  username: aviorsys #facebook username
+github:
+  username: aviorsys #github username
+instargam:
+  username: #instagram username
+linkedin:
+  username: "antler-it-solutions" #linkedin username
