@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Upcoming Latest Technologies"
-tagline: "Seeking into new technologies"
+tagline: "A sneak peek of upcoming technologies"
 categories: technology
 author: "Dilki Sewwandi"
 ---
