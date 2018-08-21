@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Deceived by Design"
-tagline: "How tech companies use dark patterns to discourage us from exercising our rights to privacy"
+tagline: "How tech companies use **dark patterns** to discourage us from exercising our rights to privacy"
 categories: security
 author: "Nalaka Wimalarathna"
 ---
 
-Norwegian Government report says Tech Giants are using "dark patterns" to nudge people give up data.
+Norwegian Government report says Tech Giants are using **dark patterns** to nudge people give up data.
 
 General Protection Privacy Regulation (or GDPR) of European Union which raises the standards and stakes of personal data privacy, went into effect from June 2018. Now a report published by The Consumer Council of Norway (Forbrukerrådet) says tech giants are using 'dark patterns' or UI designs to "nudge users away from the privacy friendly choices".
 
