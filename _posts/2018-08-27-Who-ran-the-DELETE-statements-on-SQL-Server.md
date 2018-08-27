@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who ran the DELETE statements on SQL Server.??"
+title: "Who ran the DELETE statements on SQL Server"
 tagline: "SQL World"
 categories: technology
 author: "Chathuranga Karunarathna"
