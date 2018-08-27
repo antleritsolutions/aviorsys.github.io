@@ -5,6 +5,8 @@ tagline: "SQL World"
 categories: technology
 author: "Chathuranga Karunarathna"
 ---
+![SQL_DELETE](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/delete-statement.gif)
+
 ## Delete Statement on SQL Server
 
 It’s commonly happened at all work place where an user ran a **DELETE** command by mistake or intensely on a SQL Server and no one will be accepting who did this. Here, I would like to demonstrate a way using the transaction log to track down helpful information related to this fact.
