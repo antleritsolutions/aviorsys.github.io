@@ -44,7 +44,7 @@ We found the transaction ID from the above command which we will use in the belo
 * **Step 6**
 Now we will figure out who ran the DELETE command. We will copy the hexadecimal value from the transaction SID column for the DELETE transaction and then pass that value into the `SUSER_SNAME()` function.
 
-#### Refferences
+#### References
 * <https://www.mssqltips.com/sqlservertip>
 
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/aviorsys/aviorsys.github.io/raw/master/uploads/finding-a-user-who-ran-a-delete-statement.pdf" width="100%" height="500">
