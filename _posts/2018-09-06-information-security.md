@@ -6,6 +6,8 @@ categories: security
 author: "Rakitha Gamage"
 ---
 
+![Information Security](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/2018-09-06-information-security.jpg)
+
 **Information security** (infosec) is a set of strategies for managing the processes, tools and policies necessary to prevent, detect, document and counter threats to digital and non-digital information. Infosec responsibilities include establishing a set of business processes that will protect information assets regardless of how the information is formatted or whether it is in transit, is being processed or is at rest in storage.
 
 Infosec programs are built around the core objectives of the CIA triad: maintaining the confidentiality, integrity and availability of IT systems and business data. These objectives ensure that sensitive information is only disclosed to authorized parties (confidentiality), prevent unauthorized modification of data (integrity) and guarantee the data can be accessed by authorized parties when requested (availability).
@@ -19,3 +21,6 @@ Information security processes and policies typically involve physical and digit
 Jobs within the information security field vary in their titles, but some common designations include IT chief security officer (CSO), chief information security officer (CISO), security engineer, information security analyst, security systems administrator and IT security consultant.
 
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/aviorsys/aviorsys.github.io/raw/master/uploads/2018-09-06-information-security.pdf" width="100%" height="500">
+
+#### References
+* <https://www.techopedia.com/definition/10282/information-security-is>
