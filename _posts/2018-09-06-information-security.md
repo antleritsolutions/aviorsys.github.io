@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Information Security"
-tagline: "Rocky's post"
+tagline: "An introduction to information security"
 categories: security
 author: "Rakitha Gamage"
 ---
