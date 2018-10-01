@@ -19,6 +19,6 @@ Power BI is a cloud-based business analytics service that enables
 * collaboration across your organization
 * anyone to visualize and analyze data
 
-
+![power-bi-datasources](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/powerbi-datasources.PNG)
 #### References
 * <https://docs.microsoft.com/en-us/power-bi/power-bi-overview>
