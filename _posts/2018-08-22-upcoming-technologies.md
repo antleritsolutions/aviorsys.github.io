@@ -6,7 +6,7 @@ categories: technology
 author: "Dilki Sewwandi"
 ---
 
- ![Eye Tracking](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/eye-tracking.png)
+ ![Eye Tracking](../master/images/eye-tracking.png)
 
 **Eye tracking** is the process of measuring either the point of gaze (where one is looking) or the motion of an eye relative to the head. An eye tracker is a device for measuring eye positions and eye movement. Eye trackers are used in research on the visual system, in psychology, in  psycholinguistics marketing, as an input device for human computer iteration, and in product design. There are a number of methods for measuring eye movement.  The most popular variant uses video images from which the eye position is extracted. Other methods use search coils or are based on the electrooculogram.
 
