@@ -6,7 +6,7 @@ categories: Technology
 author: "Isuru Vincent"
 ---
 
-![Fuzzy Logic](../master/images/fuzzy-logic.PNG)
+![Fuzzy Logic](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/fuzzy-logic.PNG)
 
 **A Fuzzy logic** based on the two truth values True and Fales is sometimes inadequate when
 describing human reasoning. Fuzzy logic uses the whole interval between 0 (Fales) and 1

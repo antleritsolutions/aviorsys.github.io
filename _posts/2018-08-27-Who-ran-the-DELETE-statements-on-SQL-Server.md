@@ -6,7 +6,7 @@ categories: technology
 author: "Chathuranga Karunarathna"
 ---
 
-![SQL_DELETE](../master/images/delete-statement.gif)
+![SQL_DELETE](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/delete-statement.gif)
 
 ## Delete Statement on SQL Server
 

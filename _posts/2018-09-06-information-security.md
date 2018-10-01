@@ -6,7 +6,7 @@ categories: security
 author: "Rakitha Gamage"
 ---
 
-![Information Security](../master/images/2018-09-06-information-security.jpg)
+![Information Security](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/2018-09-06-information-security.jpg)
 
 **Information security** (infosec) is a set of strategies for managing the processes, tools and policies necessary to prevent, detect, document and counter threats to digital and non-digital information. Infosec responsibilities include establishing a set of business processes that will protect information assets regardless of how the information is formatted or whether it is in transit, is being processed or is at rest in storage.
 

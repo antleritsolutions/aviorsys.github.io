@@ -6,7 +6,7 @@ categories: Technology
 author: "Janaka Rodrigo"
 ---
 
-![Ms Power BI](../master/images/power-bi.png)
+![Ms Power BI](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/power-bi.png)
 
 **Power BI** is a business analytics service provided by Microsoft. It provides interactive visualizations with self-service business intelligence capabilities, where end users can create reports and dashboards by themselves, without having to depend on information technology staff or database administrators.
 Power BI provides cloud-based BI services, known as "Power BI Services", along with a desktop based interface, called "Power BI Desktop". It offers data warehouse capabilities including data preparation, data discovery and interactive dashboards. In March 2016, Microsoft released an additional service called Power BI Embedded on its Azure cloud platform. One main differentiator of the product is the ability to load custom visualizations.
