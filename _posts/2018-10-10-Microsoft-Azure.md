@@ -6,6 +6,8 @@ categories: Technology
 author: "Minura Dilanka De Silva"
 ---
 
+![Technology](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/microsoft-azure.jpg)
+
 **What is Microsoft Azure** Microsoft Azure is the latest technology in web hosting in web development and people don’t forget it’s not only about web hosting. A lot of features are coming with the package such as Azure cosmos DB, Load Balancing, Web services, Performance monitoring and Cost Management of the account you have purchased.
 Microsoft Azure has been around for a few years now and you’ve probably heard of it. It’s the Microsoft cloud platform that competes directly with Amazon’s AWS (Amazon Web Services) and Google’s Google Cloud. If you don’t really know what “the cloud” is, I suggest you really look into it as I believe it’s the future.
 It’s free and you only need a credit card and a Microsoft email account like Hotmail or Outlook.
@@ -19,3 +21,5 @@ Just like with Azure, it’s free and you need a Microsoft email address, like H
 #### References
 * <https://www.codeproject.com/Articles/1255892/Azure-Deployment-using-Visual-Studio-Team-Services>
 * <https://searchwindevelopment.techtarget.com/definition/Visual-Studio-Team-System>
+
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/aviorsys/aviorsys.github.io/raw/master/uploads/microsoft-azure.pdf" width="100%" height="500">
