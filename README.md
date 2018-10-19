@@ -1,5 +1,5 @@
 Aviorsys Blog
 =======
 
-#### Maintainer
+#### ADMIN
 * Randev Thaluksha
