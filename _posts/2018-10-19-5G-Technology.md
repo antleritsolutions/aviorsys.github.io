@@ -32,7 +32,9 @@ The goal is to have far higher speeds available, and far higher capacity per sec
 
 #### References
 *<https://www.pcmag.com/article/345387/what-is-5g>*
+
 *<https://en.wikipedia.org/wiki/5G>*
+
 *<https://searchnetworking.techtarget.com/definition/5G>*
 
 
