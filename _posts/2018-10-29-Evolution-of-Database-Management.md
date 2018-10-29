@@ -18,7 +18,9 @@ Predecessor of database,data was maintained in a flat file.in past,later we used
 The hierarchical model and the network model were in use in almost the same era.
 
 **1970-present Era of Relational Database and Database Management**The relational database model was conceived by E. F. Codd in 1970. It can be defined using the following two terminologies.
+
 *Instance-a table with rows or columns.
+
 *Schema-specifies the structure(name of relation,name and type of each column)
 
 The model is based on branches of mathematics called set theory and predicate logic.
