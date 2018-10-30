@@ -14,6 +14,7 @@ Predecessor of database,data was maintained in a flat file.in past,later we used
 **1968-1980 Era of Hierarchical Database**Prominent hierarchical database model was IBM’s first DBMS called IMS(Information Management System).
 
 *Hierarchical data Model-In this model,files are linked in apparent/child manner,with each child file having at most one parent file.
+
 *Network data Model-In network data model,files are linked as owners and members,similar to the common network model except that each member file can have more than one owner.
 The hierarchical model and the network model were in use in almost the same era.
 
@@ -27,7 +28,8 @@ The model is based on branches of mathematics called set theory and predicate lo
 Object oriented data model:
 It gives the modeling and creation of the data as objects.
 
-Advantages and Disadvantages of DBMS approch vs file based system approach
+**_Advantages and Disadvantages of DBMS approch vs file based system approach_**
+
 Advantages of DBMS over file based systems
 
 **1.Controlling Redundancy**       
@@ -51,25 +53,24 @@ When multiple users share a database, it is likely that some users will not be a
 **7.Inconsistency can be avoided**
  When the same data is duplicated and changes are made at one site, which is not propagated to the other site, it gives rise to inconsistency and the two entries regarding the same data will not agree. 
 
-*Disadvantages of DBMS over data systems
+**_Disadvantages of DBMS over data systems_**
 
-1.Cost of DBMS
+**1.Cost of DBMS**
 The cost of DBMS varies significantly, depending on the environment and functionality provided. There is also the recurrent annual maintenance cost.
 
-2.Complexity
+**2.Complexity**
  The provision of the functionality that is expected of a good DBMS makes the DBMS an extremely complex piece of software. Database designers, developers, database administrators and end-users must understand this functionality to take full advantage of it. Failure to understand the system can lead to bad design decisions, which can have serious consequences for an organization.
 
-3.Performance
+**3.Performance**
 Typically, a File Based system is written for a specific application, such as invoicing. As result, performance is generally very good. However, the DBMS is written to be more general, to cater for many applications rather than just one. The effect is that some applications may not run as fast as they used to.
 
-4.Higher impact of a failure
+**4.Higher impact of a failure**
 The centralization of resources increases the vulnerability of the system. Since all users and applications rely on the availability of the DBMS, the failure of any component can bring operations to a halt.
 
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/aviorsys/aviorsys.github.io/raw/master/uploads/Evolution-of-Database-Management-Systems.pdf" width="100%" height="500">
 
-####References
+#### References
 
 * <Robbin R.j. (1994). database fundamentals. Available: www.esp.org/db-fund.pdf>
-* <Database management system Gavi Nara>
 * <carl chebi. (2015). introduction of database management system.Available>
 
