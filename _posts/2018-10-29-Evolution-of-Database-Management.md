@@ -52,7 +52,7 @@ When multiple users share a database, it is likely that some users will not be a
 7.Inconsistency can be avoided
  When the same data is duplicated and changes are made at one site, which is not propagated to the other site, it gives rise to inconsistency and the two entries regarding the same data will not agree. 
 
-## Disadvantages of DBMS over data systems
+### Disadvantages of DBMS over data systems
 
 1.Cost of DBMS
 The cost of DBMS varies significantly, depending on the environment and functionality provided. There is also the recurrent annual maintenance cost.
