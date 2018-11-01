@@ -6,9 +6,9 @@ categories: Technology
 author: "Anuradhika Ravini"
 ---
 
-**Evolution of Database Management Systems**From earlier stage flat-file system, to relational and object-relational systems, database technology has gone through many generations and its history that is spread over more than 40 years now.
+**Evolution of Database Management Systems** From earlier stage flat-file system, to relational and object-relational systems, database technology has gone through many generations and its history that is spread over more than 40 years now.
 
-**1968 file based**Predecessor of database,data was maintained in a flat file. in past,later we used punched cards technology was used to store data.but the files have no such advantage,rather have several limitations.
+**1968 file based** Predecessor of database,data was maintained in a flat file. in past,later we used punched cards technology was used to store data.but the files have no such advantage,rather have several limitations.
 
 **1968-1980 Era of Hierarchical Database** Prominent hierarchical database model was IBM’s first DBMS called IMS(Information Management System).
 
