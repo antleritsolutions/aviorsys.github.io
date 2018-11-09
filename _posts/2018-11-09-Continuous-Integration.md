@@ -24,6 +24,7 @@ Continuous Integration brings multiple benefits to your organization:
 - Build a solid foundation
 - Stop waiting to find out if your code’s going to work
 - Reduce integration problems allowing you to deliver software more rapidly
+
 ## More than a process
 
 Continuous Integration is backed by several important principles and practices.
@@ -39,6 +40,7 @@ Continuous Integration is backed by several important principles and practices.
 - Make it easy for anyone to get the latest executable version
 - Everyone can see what’s happening 
 - Automate deployment
+
 ### How to do it
 
 - Developers check out code into their private workspaces
