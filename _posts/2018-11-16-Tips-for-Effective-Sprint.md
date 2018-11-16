@@ -30,14 +30,14 @@ how to improve
 
 ## TIPS FOR EFFECTIVE SPRINT PLANNING
 
-1. **Set the Sprint Goal**
+ **Set the Sprint Goal**
 
 • Ask the product owner to come up with the goal of the sprint
 
 • It should be specific and measurable and the result of a discussion between the
 Product Owner and the Development Team.
 
-2. **Arrange planning preparation meeting**
+ **Arrange planning preparation meeting**
 
 • Not a mandatory step, it can help a lot before the actual Sprint planning
 
@@ -46,7 +46,7 @@ Product Owner and the Development Team.
 • The key to success of such meeting is to make sure that every task is clear and
 precise
 
-3. **Prioritize tasks**
+ **Prioritize tasks**
 
 • Once the goal is established, prioritize the stories that fulfill that goal.
 
@@ -54,31 +54,31 @@ precise
 
 • Team members can discuss and decide together what will be completed first
 
-4. **Create subtasks**
+ **Create subtasks**
 
 • Once you decide on priorities and which tasks you want to complete, it is time
 to create smaller tasks or subtasks that will help you complete them.
 
 • Some tasks are simply too complex and you will have to complete a series of smaller tasks to finish these complex ones
 
-5. **Don’t take on too many tasks**
+ **Don’t take on too many tasks**
 
 • While the Sprint goal should be a challenge for the team to fulfill, taking on too many tasks is counter-productive.
 
 • If the team fails to deliver what they agreed, it can lead to frustration and
 disappointment.
 
-6. **Effective work days**
+ **Effective work days**
 
 - To calculate the potential impact on sprint velocity, be sure to record the team’s days off,holidays or any other events that could affect the sprint delivery.
 
 ## TIPS FOR EFFECTIVE DAILY SCRUM
 
-1. Remain standing
+**Remain standing**
 
 • Conventional meetings tend to stretch long, get boring and off topic when members are sitting comfortably. Standing up during these meetings ensures that the meetings are short, to-the-point and the energy level is high.
 
-2. Your 3-question agenda
+**Your 3-question agenda**
 
 • The scrum meeting, in an agile development world, has every team member
 answer three simple questions :
@@ -88,11 +88,11 @@ ii) What are you working on until the next meeting?
 
 iii) What is getting in your way or keeping you from doing your job?
 
-3. Do it around the task board.
+**Do it around the task board**
 
 • Have team members point at stories and tasks on the task board as they talk about their work. This keeps the focus on work for the sprint and makes it obvious when the talk becomes unrelated to the sprint.
 
-4. Use a ‘Parking Lot’ for unresolved issues
+**Use a ‘Parking Lot’ for unresolved issues**
 
 • Define a ‘Parking lot’ and list down the issues which are to be dealt later.
 
@@ -100,28 +100,28 @@ iii) What is getting in your way or keeping you from doing your job?
 
 ## TIPS FOR EFFECTIVE SPRINT REVIEW
 
-1.Review the Sprint’s results.
+**Review the Sprint’s results.**
 
 ● The PO reviews which items from the product backlog were completed during the
 previous Sprint and explains any that weren’t.
 
-2.Discuss and demonstrate the work.
+**Discuss and demonstrate the work**
 
 ● The team follows up by discussing their successes and pain points during the Sprint.
 
 - Then they hold a live demo of the finished software .Finally, the team answer any questions related to the Sprint’s Increment.
 
-3.Update the status of the project.
+**Update the status of the project**
 
 ● The PO discusses the current state of the product backlog and restates the scope of the project going forward.
 
-4.Collaborate on the plan ahead.
+**Collaborate on the plan ahead**
 
 ● Finally, the team, stakeholders, PO, and any other meeting members work together to finalize next steps with respect to the insights gained throughout the meeting. For example, your PO may adjust the backlog or your team may implement new processes for future Sprints. After any changes are agreed upon, its important to review all timelines, budgets, and other anticipated events that could affect the project.
 
 ## TIPS FOR EFFECTIVE SPRINT RETROSPECTIVE
 
-1.Start, stop and continue
+**Start, stop and continue**
 
 ● A good way to conduct a sprint retrospective is by asking each team member what
 they would start, stop and continue doing during the upcoming sprints.
@@ -133,14 +133,14 @@ during the scrum process because it’s a waste of time of inefficient.
 
 ● The continue items are things that a team member thinks your team should
 
-2.Take turns facilitating the scrum retrospective
+**Take turns facilitating the scrum retrospective**
 
 ● Usually, the scrum master is the one to facilitate the retrospective. Instead of this,you can ask each team member to take turns conducting the meeting.
 
 ● This way you won’t have the same kind of meeting every single time. Each person
 can facilitate the meeting on their own way and enjoy taking ownership
 
-3. Choose a different location
+**Choose a different location**
 
 ● I t might do wonders to choose a different location for the retrospective once in a while. Leave the office and go somewhere else, like a park, boat, coffee bar, inspiring meeting locations.
 
@@ -149,7 +149,7 @@ brainstorming and defining out-of-the-box ideas.
 
 ● continue doing. These are things that are not yet habits but should be habits.
 
-4. Give kudos to the team
+**Give kudos to the team**
 
 During the sprint retrospective, never forget to appreciate and thank your team members for the ways they have helped you or each other. This can have a lasting impact on the team and really help everyone to be engaged and motivated. You can also try to reserve a small space in the team room and capture all the kudos given to each team member during the scrum process. It helps them stay motivated and feel good when something positive is visible in the team area.
 
