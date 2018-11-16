@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Tips for Effective Sprint"
-tagline: "An Introduction to Effective Sprint"
+title: "Tips for Effective Scrum"
+tagline: "An Introduction to Effective Scrum"
 categories: Technology
-author: "Kunchuka Ranasinghe"
+author: "Ruvi Ranasinghe"
 ---
 
 ![Tips for Effective Sprint](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/agile-scrum-lifecycle-diagram.png)
