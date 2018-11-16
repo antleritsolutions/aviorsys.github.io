@@ -30,14 +30,14 @@ how to improve
 
 ## TIPS FOR EFFECTIVE SPRINT PLANNING
 
-1. Set the Sprint Goal
+1. **Set the Sprint Goal**
 
 • Ask the product owner to come up with the goal of the sprint
 
 • It should be specific and measurable and the result of a discussion between the
 Product Owner and the Development Team.
 
-2. Arrange planning preparation meeting
+2. **Arrange planning preparation meeting**
 
 • Not a mandatory step, it can help a lot before the actual Sprint planning
 
@@ -46,7 +46,7 @@ Product Owner and the Development Team.
 • The key to success of such meeting is to make sure that every task is clear and
 precise
 
-3. Prioritize tasks
+3. **Prioritize tasks**
 
 • Once the goal is established, prioritize the stories that fulfill that goal.
 
@@ -54,21 +54,21 @@ precise
 
 • Team members can discuss and decide together what will be completed first
 
-4. Create subtasks
+4. **Create subtasks**
 
 • Once you decide on priorities and which tasks you want to complete, it is time
 to create smaller tasks or subtasks that will help you complete them.
 
 • Some tasks are simply too complex and you will have to complete a series of smaller tasks to finish these complex ones
 
-5. Don’t take on too many tasks
+5. **Don’t take on too many tasks**
 
 • While the Sprint goal should be a challenge for the team to fulfill, taking on too many tasks is counter-productive.
 
 • If the team fails to deliver what they agreed, it can lead to frustration and
 disappointment.
 
-6. Effective work days
+6. **Effective work days**
 
 - To calculate the potential impact on sprint velocity, be sure to record the team’s days off,holidays or any other events that could affect the sprint delivery.
 
