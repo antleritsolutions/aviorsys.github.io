@@ -40,6 +40,7 @@ A modern switch may implement power over Ethernet (PoE), which avoids the need f
 Modern commercial switches use primarily Ethernet interfaces. The core function of an Ethernet switch is to provide a multiport layer 2 bridging function. Many switches also perform operations at other layers. A device capable of more than bridging is known as a multilayer switch. Switches may learn about topologies at many layers and forward at one or more layers.
 
 - Layer 1
+
 A layer 1 network device transfers data , but does not manage any of the traffic coming through it, an example is Ethernet hub. Any packet entering a port is repeated to the output of every other port except for the port of entry. Specifically, each bit or symbol is repeated as it flows in. A repeater hub can therefore only receive and forward at a single speed. Since every packet is repeated on every other port, packet collisions affect the entire network, limiting its overall capacity.
 
 By the early 2000s, there was little price difference between a hub and a low-end switch. Hubs remained useful for a time for specialized applications, such supplying a copy of network traffic to a packet analyzer. A network tap may also be used for this purpose and many network switches now have a port mirroring feature that provides the same functionality.
