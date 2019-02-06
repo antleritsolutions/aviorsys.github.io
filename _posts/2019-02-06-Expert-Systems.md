@@ -13,7 +13,7 @@ The expert systems are the computer applications developed to solve
 complex problems in a particular domain, at the level of 
 extra-ordinary human intelligence and expertise.
 
-#### Characteristics of Expert Systems
+**Characteristics of Expert Systems**
 
 - High performance
 - Understandable
