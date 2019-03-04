@@ -51,7 +51,7 @@ Semi-immersive simulations provide a more immersive experience, in which the use
 
 Fully-immersive simulations provide the most immersive implementation of virtual reality technology. In a fully-immersive simulation, hardware such as head-mounted displays and motion detecting devices are used to stimulate all of a user’s senses. Fully immersive simulations are able to provide very realistic user experiences by delivering a wide field of view, high resolutions, increased update rates (also called refresh rate), and high levels of contrast into a user’s head-mounted display (HMD).
 
-## Reference
+## References
 
 - https://www.engineersgarage.com/articles/virtual-reality-environment
 - https://www.realitytechnologies.com/virtual-reality/
