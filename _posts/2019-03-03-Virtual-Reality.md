@@ -36,7 +36,8 @@ The other technique used to create a virtual environment is projection based, wh
 ## Virtual Reality (VR) Categories
 
 Several categories of virtual reality technologies exist, with more likely to emerge as this technology progresses. The various types of virtual reality differ in their levels of immersion and also virtual reality applications and use cases. 
-- Below, we explore a few of the different categories of virtual reality:
+
+### **_Below, we explore a few of the different categories of virtual reality:_** 
 
 - Non-Immersive
 
