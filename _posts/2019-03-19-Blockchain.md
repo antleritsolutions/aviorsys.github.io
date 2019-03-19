@@ -32,3 +32,7 @@ In theory, if blockchain goes mainstream, anyone with access to the internet wou
 Currently only a very small proportion of global GDP (around 0.025%,or $20 billion) is held in the blockchain, according to a survey by the World Economic Forum’s Global Agenda Council.But the Forum’s research suggests this will increase significantly in the next decade, as banks, insurers and tech firms see the technology as a way to speed up settlements and cut costs.
 
 Companies racing to adapt blockchain include UBS, Microsoft, IBM and PwC. The Bank of Canada is also experimenting with the technology.
+
+### References
+
+- https://www.weforum.org/agenda/2016/06/blockchain-explained-simply/
