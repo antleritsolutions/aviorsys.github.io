@@ -33,23 +33,23 @@ Benefits of Fusion Technology
 
 Benefits
 
-1. No Carbon Emissions
+- No Carbon Emissions
 
 The only by-products of fusion reactions are small amounts of helium, which is an inert gas that will not add to atmospheric pollution.
 
-2. Abundant Fuels
+- Abundant Fuels
 
 Deuterium can be extracted from water and tritium is produced from lithium, which is found in the earth&#39;s crust. Fuel supplies will therefore last for millions of years.
 
-3. Energy Efficiency
+- Energy Efficiency
 
 One kilogram of fusion fuel can provide the same amount of energy as 10 million kilograms of fossil fuel. No long-lived Radioactive Waste: Only plant components become radioactive and these will be safe to recycle or dispose of conventionally within 100 years.
 
-4. Safety
+- Safety
 
 The small amounts of fuel used in fusion devices (about the weight of a postage stamp at any one time) means that a large-scale nuclear accident is not possible.
 
-5. Reliable Power
+- Reliable Power
 
 Fusion power plants should provide a baseload supply of large amounts of electricity, at costs that are estimated to be broadly similar to other energy sources.
 
