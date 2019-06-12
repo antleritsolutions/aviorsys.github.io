@@ -16,11 +16,8 @@ Wireless Hacking. However, most of the tools are excellent and majority of them 
 
 - **Metasploit Penetration Testing Software**
 
-The Metasploit Project is a hugely popular pen testing or hacking framework. It is a ‘collection of hacking tools and frameworks’ that can be used to execute various tasks. It is widely used by
-cyber security professionals and ethical hackers. Metasploit is essentially a computer security project that provides the user with vital information regarding known security vulnerabilities and
-helps to formulate penetration testing and IDS testing plans, strategies and methodologies for
-exploitation. There’s a ton of incredibly useful Metasploit information out there and we hope that the books that we’ve chosen go someway to help you on your journey, not least if you are a
-beginner just starting out and looking for beginners tutorials in how to use Metasploit.
+The Metasploit Project is a hugely popular pen testing or hacking framework. It is a ‘collection of hacking tools and frameworks’ that can be used to execute various tasks. It is widely used by cyber security professionals and ethical hackers. Metasploit is essentially a computer security project that provides the user with vital information regarding known security vulnerabilities and helps to formulate penetration testing and IDS testing plans, strategies and methodologies for
+exploitation. There’s a ton of incredibly useful Metasploit information out there and we hope that the books that we’ve chosen go someway to help you on your journey, not least if you are a beginner just starting out and looking for beginners tutorials in how to use Metasploit.
 There’s a ton of incredibly useful Metasploit information out there and we hope that the books
 that we’ve chosen go someway to help you on your journey, not least if you are a beginner just starting out and looking for beginners tutorials in how to use Metasploit.
 
@@ -30,8 +27,7 @@ that we’ve chosen go someway to help you on your journey, not least if you are
 The Aircrack is a suite of Wi-fi (Wireless) hacking tools. Aircrack-ng is an 802.11 WEP and
 WPA-PSK keys cracking hacking tool that can recover keys when sufficient data packets have
 been captured (in monitor mode).It implements standard FMS attacks along with some
-optimizations like KoreK attacks, as well as the PTW attacks to make their attacks more potent. If you are a mediocre hacker then you’ll be able to crack WEP in a few minutes and you ought
-to be pretty proficient at being able to crack WPA/ WPA2.
+optimizations like KoreK attacks, as well as the PTW attacks to make their attacks more potent. If you are a mediocre hacker then you’ll be able to crack WEP in a few minutes and you ought to be pretty proficient at being able to crack WPA/ WPA2.
 
 
 - THC Hydra
