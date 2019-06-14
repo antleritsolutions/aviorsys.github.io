@@ -49,12 +49,10 @@ There is a wide range of services and applications. These services cover fields 
 
 ## References
 
-<
-https://ramboll.com/services-and-sectors/planning-and-urban-design/smart-city-concepts
+<https://ramboll.com/services-and-sectors/planning-and-urban-design/smart-city-concepts
 -and-technologies>
 
-<
-https://www.omicsonline.org/open-access/smart-city-concept-applications-and-services-
+<https://www.omicsonline.org/open-access/smart-city-concept-applications-and-services-
 2167-0919-117.php?aid=33684>
 
 <https://www.gemalto.com/iot/inspired/smart-cities. [Accessed 10 June 2019]>
