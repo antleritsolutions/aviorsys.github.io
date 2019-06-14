@@ -49,16 +49,12 @@ There is a wide range of services and applications. These services cover fields 
 
 ## References
 
-<Ramboll Group. 2019. Smart city concepts and technologies - Ramboll Group. [ONLINE]
-Available at:
+<
 https://ramboll.com/services-and-sectors/planning-and-urban-design/smart-city-concepts
--and-technologies. [Accessed 10 June 2019].>
+-and-technologies>
 
-<OMICS International. 2019. Smart City Concept, Applications and Services. [ONLINE]
-Available at:
-
+<
 https://www.omicsonline.org/open-access/smart-city-concept-applications-and-services-
-2167-0919-117.php?aid=33684. [Accessed 10 June 2019].>
+2167-0919-117.php?aid=33684>
 
-<What is a smart city? . 2019. What is a smart city? . [ONLINE] Available at:
-https://www.gemalto.com/iot/inspired/smart-cities. [Accessed 10 June 2019].>
+<https://www.gemalto.com/iot/inspired/smart-cities. [Accessed 10 June 2019]>
