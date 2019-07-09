@@ -7,7 +7,7 @@ author: "Dasun Lakshan"
 ---
 
 
-# SOLID Introduction
+#  A SOLID Guide to SOLID Principles
 
 1. SOLID principles are kind of a design principals.They help to manage most of the
 software design principles.
