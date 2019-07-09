@@ -68,3 +68,5 @@ If we don’t follow SOLID Principles we
 ## Reference
 
 <http://csharp-video-tutorials.blogspot.com/2017/11/solid-design-principles-introduction.html>
+
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/aviorsys/aviorsys.github.io/raw/master/uploads/SOLID-Principals.pdf" width="100%" height="500">
