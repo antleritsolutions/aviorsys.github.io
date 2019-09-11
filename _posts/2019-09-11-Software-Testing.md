@@ -55,7 +55,7 @@ It’s important test the data integrity in IOT devices because those devices in
 
 IOT Testing Tools
 
-o	Software Tools : 
+- Software Tools : 
 
 ∞	Wireshark – Used for check the traffic in the interface and this tool is Open source application.
 
