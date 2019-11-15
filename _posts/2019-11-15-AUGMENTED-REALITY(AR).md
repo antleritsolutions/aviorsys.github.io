@@ -7,7 +7,7 @@ author: "Indumini Kuruppu Arachchi"
 
 ## WHAT IS AUGMENTED REALITY (AR) AND HOW DOES IT WORK
 
-Augmented reality is one of best technology which expands our physical world, adding layers of digital information onto it. Unlike Virtual Reality (VR), AR does not create the artificial environments to replace real with a virtual one. AR appears in direct view of an existing environment and adds sounds, videos and graphics on it.AR apps typically connect digital animation to a special ‘marker’, or with the help of GPS in phones pinpoint the location. Augmentation is happening in real time and within the context of the environment.
+Augmented reality is one of best technology which expands our physical world, adding layers of digital information onto it. Unlike Virtual Reality (VR), AR does not create the artificial environments to replace real with a virtual one. AR appears in direct view of an existing environment and adds sounds, videos and graphics on it. AR apps typically connect digital animation to a special ‘marker’, or with the help of GPS in phones pinpoint the location. Augmentation is happening in real time and within the context of the environment.
 
 ## 4 types of augmented reality today
 
