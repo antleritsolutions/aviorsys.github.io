@@ -4,6 +4,7 @@ title: "First Selenium Test automation Script with Java"
 categories: Technology
 author: "Anuradhika Wijayathilake"
 ---
+ ![cover Image](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/selenium-test-automation.jpg)
 
 # What is selenium?
 
