@@ -26,7 +26,7 @@ and techniques to ensure success. Due to the significance of forecasting trends 
 trillion industry, here is an assessment vis-à-vis disruptive technology trends which poised to
 redefine a post COVID 19 world.
 
-1. Online Shopping
+1 . Online Shopping
 
 Global Consumer Insights Survey 2019 disclosed that almost a one third of consumers buy
 products online weekly and the number increases by 5% year-on-year from physical stores to
@@ -40,7 +40,7 @@ more time and money while being loyal than online shoppers. Overall, it is a con
 marketing, operations, inventory and more information equally offered over having an isolated
 customer database or gamut of disparate systems.
 
-2. Contactless Payments
+2 . Contactless Payments
 
 Contactless digital payments enable consumers to make online purchases, purchase goods and
 services and instantly complete transactions by few clicks while receiving fast fund transfers.
@@ -55,7 +55,7 @@ world. This will be the year that biometrics in payments got a gear offering a h
 security in personal authentication for mobile financial services such as payment verifications,
 accessing banking apps and fund transfer verifications.
 
-3. Remote Work
+3 . Remote Work
 
 Including Tech giants like Google and Facebook practice Work from Home or remote working
 powered by technologies including but not limited to Virtual Private Networks (VPNs), Voice
@@ -71,7 +71,7 @@ Skype. Need for faster data sharing, connectivity speeds and overcoming bandwidt
 challenges has accelerated the rollout of 5G technology more real than ever, sooner than
 expected.
 
-4. Telehealth
+4 . Telehealth
 
 Consumer adoption for telehealth has skyrocketed from US$ 3 billion to US$ 250 billion in
 United States healthcare. Since the shift was not forecasted, challenges remain in bringing in
@@ -85,7 +85,7 @@ applications and empowering provider workforce with applications encompassing ce
 scheduling, feedback monitoring, Lab reports and prescription management will certainly
 contour this opportunity.
 
-5. Distance Learning
+5 . Distance Learning
 
 EdTech revolution has indisputably provided more access to quality education and learning
 content worldwide giving more data-driven insights by using in-depth personalization to suit
@@ -101,7 +101,7 @@ generic and customized, recommending skills and developing personalized learning
 integrated with Learning Management Solutions (LMS) will offer instant solutions to reskill or
 upskill the consumers.
 
-6. Online Entertainment
+6 . Online Entertainment
 
 Mental health is one of the most debated topics amidst ongoing concerns about novel
 coronavirus redefining the significance of human interactions, creativity and entertainment for
