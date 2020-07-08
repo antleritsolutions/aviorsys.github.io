@@ -113,7 +113,9 @@ Popularity of React vs. Angular in Google Trends.Angular 5 is a framework that w
 
 Here, are pros/benefits of using React:
 
-●Easy to learn because of its simple Design●The HTML-like syntax for which allows templating, and highly detaileddocumentation.
+●Easy to learn because of its simple Design
+
+●The HTML-like syntax for which allows templating, and highly detaileddocumentation.
 
 ●Developers can spend more time writing modern JavaScript, and lesstime worrying about the framework-specific code.
 
@@ -197,4 +199,5 @@ Whatever may be your perception of the discussion about React Vs.AngularJS, you 
 
 ### References
 
-<​ https://www.guru99.com/react-vs-angular-key-difference.htmlhttps://www.tutorialsteacher.com/angularjs/what-is-angularjs >
+- https://www.guru99.com/react-vs-angular-key-difference.html
+- https://www.tutorialsteacher.com/angularjs/what-is-angularjs
