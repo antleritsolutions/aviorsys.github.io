@@ -52,7 +52,9 @@ AngularJS changes static HTML to dynamic HTML. It extends the ability ofHTML by 
 
 ●Forms and validation
 
-●Shadow DOM / local CSS●UI and Business Logic Separation
+●Shadow DOM / local CSS
+
+●UI and Business Logic Separation
 
 ### When to Choose to React?
 
@@ -141,7 +143,11 @@ Here, are pros/benefits of using Angular:
 
 ●Easy to extend and customize.
 
-●Supports Single Page Application.●Uses Dependency Injection.●Easy to Unit test.
+●Supports Single Page Application.
+
+●Uses Dependency Injection.
+
+●Easy to Unit test.
 
 ●REST friendly.
 
