@@ -197,4 +197,4 @@ Whatever may be your perception of the discussion about React Vs.AngularJS, you 
 
 ### References
 
-<​https://www.guru99.com/react-vs-angular-key-difference.htmlhttps://www.tutorialsteacher.com/angularjs/what-is-angularjs>
+<​ https://www.guru99.com/react-vs-angular-key-difference.htmlhttps://www.tutorialsteacher.com/angularjs/what-is-angularjs >
