@@ -80,7 +80,7 @@ PHP and Nginx are been installed successfully at this point. But we need to chan
 ### Configure PHP
 Edit the /etc/opt/remi/php74/php.ini and make the following changes
 
-```ini
+```sh
 # uncomment cgi.fix_pathinfo and change the value to 0
 cgi.fix_pathinfo = 0
 # change the value of post_max_size
@@ -90,7 +90,7 @@ upload_max_filesize = 32M
 ```
 
 Edit the /etc/opt/remi/php74/php-fpm.d/www.conf as follows.
-```ini
+```sh
 # change  the user to nginx
 user = nginx
 # change  the group to nginx
@@ -138,7 +138,7 @@ sudo mkdir -p /etc/nginx/sites-enabled
 ```
 
 Edit /etc/nginx/nginx.conf and put the following content at the end of http block
-```ini
+```sh
 # enable gzip compression
 gzip              on;
 gzip_buffers      16 8k;
@@ -153,7 +153,7 @@ gzip_disable "MSIE [1-6]\.";
 include /etc/nginx/sites-enabled/*;
 ```
 Create an empty file in /etc/nginx/sites-available/my.domain.tld and put the following content
-```ini
+```sh
 server {
     server_name my.domain.tld;
     root /path/to/web-site;
