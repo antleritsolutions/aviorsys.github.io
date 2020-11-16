@@ -82,9 +82,13 @@ Virtual reality has a wide range of applications in the military sector, as we s
 References
 
 ●	The Telegraph. 2020. More than 1 in 20 troop deaths happen in training. [ONLINE] Available at: https://www.telegraph.co.uk/news/uknews/defence/12095670/More-than-1-in-20-troop-deaths-happen-in-training.html. [Accessed 06 November 2020].
+
 ●	Wikipedia. 2020. United States military veteran suicide - Wikipedia. [ONLINE] Available at: https://en.wikipedia.org/wiki/United_States_military_veteran_suicide. [Accessed 06 November 2020].
+
 ●	Welcome to DST - Defence Science and Technology. 2020. Welcome to DST - Defence Science and Technology. [ONLINE] Available at: https://www.dst.defence.gov.au/. [Accessed 06 November 2020].
+
 ●	strikervr. 2020. Advanced force feedback | United States | Striker VR. [ONLINE] Available at: https://www.strikervr.com/. [Accessed 06 November 2020].
+
 ●	ThinkMobiles. 2020. Virtual Reality for the military, training and combat simulations - 2020. [ONLINE] Available at: https://thinkmobiles.com/blog/virtual-reality-military/. [Accessed 06 November 2020].
 
 
