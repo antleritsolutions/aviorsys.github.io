@@ -13,7 +13,7 @@ The army adopted Virtual Reality a long time ago, much earlier than commercial m
 
 ## VR military applications
 
-1. VR Training
+### VR Training
 
 ![second Image](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/vrfight.png)
 
@@ -34,7 +34,7 @@ With the advent of wireless and mobile VR systems, the training became even more
 Additionally, new advanced tech, a VR haptic feedback suit, is in the works too. Next area of use is medical training. Military medical teams should also be able to work quickly and professionally in dangerous circumstances. Training in VR format can give the necessary experience in combat situations.
 
 
-2. VR Simulators
+### VR Simulators
 
 ![third Image](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/vrsim.png)
 
@@ -45,7 +45,7 @@ Future combat system (FCS) – is the main type of VR simulations, mostly applie
 Unlike previous types, using VR navy simulators are focused on recreating the ship bridge, then replicating environments. The main goal of seamanship, navigation and ship-handling trainer (NSST) simulations is providing soldiers with any possible scenarios, and training to operate in toughest ones.  
 
 
-3. VR Therapy
+### VR Therapy
 
 ![fourth Image](https://github.com/aviorsys/aviorsys.github.io/raw/master/images/vrthe.png)
 
