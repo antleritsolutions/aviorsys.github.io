@@ -2,4 +2,4 @@ Aviorsys Blog
 =======
 
 #### ADMIN
-* Randev Thaluksha
+* AviorSys
